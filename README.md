@@ -81,7 +81,7 @@ The analysis provides:
 
 1. Prepare your data:
 ```python
-df = pd.read_excel('your_lead_data.xls')
+df = pd.read_excel('lead_data.xls')
 ```
 
 2. Run initial analysis:
